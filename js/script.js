@@ -16,6 +16,6 @@ var callback = function(shots) {
   $('#shots').html(html);
 };
 
-$.jribbble.getShotsByPlayerId("coard",
+$.jribbble.getShotsByPlayerId("DParkerDesign",
     callback,
     {page: 1, per_page: 18})
