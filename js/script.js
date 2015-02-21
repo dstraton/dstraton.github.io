@@ -18,4 +18,4 @@ var callback = function(shots) {
 
 $.jribbble.getShotsByPlayerId("DParkerDesign",
     callback,
-    {page: 1, per_page: 18})
+    {page: 1, per_page: 28})
